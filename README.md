@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChatBot - AI Assistant Application
 
 A simple, professional, and beginner-friendly web-based chatbot built with Python Flask. This chatbot provides a modern interface for interactive conversations with intelligent response handling.
@@ -246,3 +247,6 @@ This is a great portfolio project to showcase your Python and web development sk
 - Use it as a foundation for more advanced chatbots
 
 Happy coding!
+=======
+# AI-Chatbot
+>>>>>>> f9173274197009a745f8765cbeea016b3437a4ec
